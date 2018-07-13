@@ -1,11 +1,18 @@
 ---
-title: "Fasting Pills"
-date: 2018-07-13T08:31:47-04:00
-draft: true
+title: Fasting Pills
+author: YSO
+date: '2018-07-13'
+categories:
+  - Code
+tags:
+  - Juicy
+slug: fasting-pills
 ---
 
 # Fasting Pills
 **Kollel Toronto**: https://kollel.com/fasting-pills/
+
+![Example image](/image/pills.jpg)
 
 To order your Fasting Pills please call your local number below. Supplies may be limited, please call early.
 
@@ -16,7 +23,7 @@ If there is no distributor in your area, it can be shipped, please call 1-888-25
 **Toronto** 416 789 1853
 Also available in Thornhill
 
-Montreal
+**Montreal**
 De Vimy 514 735 0992 at 2630 Bedford walk in or calls only between 8 – 10 pm
 Outremont 514 272 6663 pse call first
 
