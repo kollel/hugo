@@ -3,31 +3,41 @@ title: Fasting Pills
 author: YSO
 date: '2018-07-13'
 categories:
-  - Code
+  - Announcements
 tags:
-  - Juicy
+  - Fasting
 slug: fasting-pills
 ---
 
 # Fasting Pills
 **Kollel Toronto**: https://kollel.com/fasting-pills/
 
-![Example image](/image/pills.jpg)
+## Relief from Headaches and Nausea on Yom Kippur!!
+Also, other fast days: Tisha B'Av, Asarah B'Teves, 17 Tamuz and Tzom Gedaliah
+
+Headaches (migraines) and nausea are not uncommon during the fast days. However, for many, the severity can be debilitating. 
+
+The Kollel is the supplier of a specially formulated sustained-timed release capsules, to alleviate unnecessary suffering on fast days. The non prescription pills are specially formulated by compounding pharmacists and are available as acetylsalicylic acid (aspirin), acetaminophen (tylenol), ibuprofen (advil) or caffeine (equivalent to two cups of coffee) in a vegetable based capsule.  They are deemed halachically permissable by the Roshei HaKollel, Rav Shlomo Miller and Rav Yaakov Hirschman who note that “headaches and nausea are not one of the five Eenuyim we need suffer on Tisha B’Av or Yom Kippur, which means the formulation can be taken with a clear conscience.”
+
+The pills are taken orally before a fast begins and they do not release into the blood stream for approximately 12 hours. Once the pills begin working, they effectively release and keep headaches and nausea at bay till the conclusion of the fast.
+
+The pills have been extremely popular since they were introduced by the Kollel over 15 years ago - as numerous letters of approval bear testament .“What’s really surprising,” says Rabbi Hirschman, “is that the product works best for those with the severest symptoms.” 
+
 
 To order your Fasting Pills please call your local number below. Supplies may be limited, please call early.
 
 If there is no distributor in your area, it can be shipped, please call 1-888-256-5595 or 416-789-1853.
 
-## Canada
+### Canada
 
 **Toronto** 416 789 1853
 Also available in Thornhill
 
 **Montreal**
 De Vimy 514 735 0992 at 2630 Bedford walk in or calls only between 8 – 10 pm
-Outremont 514 272 6663 pse call first
+Outremont 514 272 6663, please call first
 
-## United States
+### United States
 
 **Baltimore** 410 358 5116
 
