@@ -12,8 +12,9 @@ slug: fasting-pills
 # Fasting Pills
 **Kollel Toronto**: https://kollel.com/fasting-pills/
 
+
 ## Relief from Headaches and Nausea on Yom Kippur!!
-Also, other fast days: Tisha B'Av, Asarah B'Teves, 17 Tamuz and Tzom Gedaliah
+Also, other fast days: Tisha B'Av, Asarah B'Teves, 17 Tamuz and Tzom Gedaliah. Psak from Rav Shlomo Miller (see below).
 
 Headaches (migraines) and nausea are not uncommon during the fast days. However, for many, the severity can be debilitating. 
 
@@ -112,3 +113,6 @@ Also available at TASTERS MARKET
 
 **Williamsburg** 718 797 2186 Skillman St area
 
+----
+# Psak
+![Psak](/pdf/RSM-pills.pdf) 
