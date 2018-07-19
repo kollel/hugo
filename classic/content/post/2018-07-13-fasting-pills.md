@@ -115,4 +115,4 @@ Also available at TASTERS MARKET
 
 ----
 # Psak
-![Psak](/pdf/RSM-pills.pdf) 
+Download: [pdf](/pdf/RSM-pills.pdf) 
